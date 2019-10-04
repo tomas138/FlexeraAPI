@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FlexeraAPI</name>
+    </assembly>
+    <members>
+        <member name="M:FlexeraAPI.Controllers.PeopleController.GetPeople(System.String)">
+            <summary>
+            Lists all existing people.
+            </summary>
+        </member>
+        <member name="M:FlexeraAPI.Controllers.PeopleController.GetPerson(System.Int32)">
+            <summary>
+            Lists a specfic person.
+            </summary>
+        </member>
+        <member name="M:FlexeraAPI.Controllers.PeopleController.CreatePerson(FlexeraAPI.Models.Person)">
+            <summary>
+            Creates a new person.
+            </summary>
+        </member>
+        <member name="M:FlexeraAPI.Controllers.PeopleController.DeletePerson(System.Int32)">
+            <summary>
+            Deletes an existing person.
+            </summary>
+        </member>
+        <member name="M:FlexeraAPI.Controllers.PeopleController.UpdatePerson(System.Int32,FlexeraAPI.Models.Person)">
+            <summary>
+            Updates an existing person.
+            </summary>
+        </member>
+    </members>
+</doc>

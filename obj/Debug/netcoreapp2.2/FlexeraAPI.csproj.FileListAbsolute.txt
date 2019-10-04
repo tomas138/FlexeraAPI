@@ -1,0 +1,15 @@
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.deps.json
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.runtimeconfig.json
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.runtimeconfig.dev.json
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.dll
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.pdb
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.csprojAssemblyReference.cache
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.csproj.CoreCompileInputs.cache
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.RazorAssemblyInfo.cache
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.RazorAssemblyInfo.cs
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.AssemblyInfoInputs.cache
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.AssemblyInfo.cs
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.dll
+C:\Projects\FlexeraAPI\obj\Debug\netcoreapp2.2\FlexeraAPI.pdb
+C:\Projects\FlexeraAPI\bin\Debug\netcoreapp2.2\FlexeraAPI.xml
